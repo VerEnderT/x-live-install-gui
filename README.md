@@ -1,10 +1,10 @@
 # x-live-install-gui
   [De] Erstellen Sie eine Installations-GUI für Apt und/oder Flatpak  [En] Create an installation GUI for Apt and/or Flatpak
 
-SYNOPSIS
+###SYNOPSIS
 <br>  x-live-install-gui [options]
 
-OPTIONS
+###OPTIONS
 <br>-deb pakage
 <br>define the debian pakage
     
@@ -21,7 +21,7 @@ OPTIONS
 <br>    defines the description of the programm you want to install
 
 
-<h1>EXAMPLES
+###EXAMPLES
 <br>this is a example for 0 A.D.:<br>
 
 
