@@ -6,7 +6,7 @@ SYNOPSIS
 
 OPTIONS
 -deb pakage
-define the debian pakage
+<br>define the debian pakage
     
 -flat Flatpak-ID
 define the Flatpak-ID for the programm wich will be install
