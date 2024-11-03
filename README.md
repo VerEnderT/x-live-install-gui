@@ -5,20 +5,20 @@ SYNOPSIS
        x-live-install-gui [options]
 
 OPTIONS
--deb pakage
+<br>-deb pakage
 <br>define the debian pakage
     
--flat Flatpak-ID
-define the Flatpak-ID for the programm wich will be install
+<br>-flat Flatpak-ID
+<br>define the Flatpak-ID for the programm wich will be install
     
--pic image-Url
-define the background image in png or jpg no webp or  something like that
+<br>-pic image-Url
+<br>define the background image in png or jpg no webp or  something like that
 
--name program-name
-    defines the name of the window an in the titleline
+<br>-name program-name
+<br>    defines the name of the window an in the titleline
 
--desc description
-    defines the description of the programm you want to install
+<br>-desc description
+<br>    defines the description of the programm you want to install
 
 
 EXAMPLES
